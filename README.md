@@ -1,4 +1,4 @@
-# Neome.com Browser Control Extension
+# <a href="https://neome.com">Neome.com</a> Browser Control Extension
 
 **Deterministic. Secure. Yours.**  
 No APIs. No Keys. Just Control.  
