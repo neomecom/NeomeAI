@@ -1,4 +1,4 @@
-# Neome Browser Control Extension
+# Neome.com Browser Control Extension
 
 **Deterministic. Secure. Yours.**  
 No APIs. No Keys. Just Control.  
