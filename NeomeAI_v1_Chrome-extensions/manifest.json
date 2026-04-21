@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Neome Auto Poster",
+    "version": "1.4",
+    "description": "Auto poster with multi-platform support + Client ID popup",
+
+    "permissions": [
+        "scripting",
+        "windows",
+        "tabs"
+    ],
+
+    "host_permissions": [
+        "https://x.com/*",
+        "https://www.reddit.com/*",
+        "https://www.tiktok.com/*",
+        "https://mail.google.com/*",
+        "https://web.telegram.org/*"
+    ],
+
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Neome Poster"
+    }
+}
